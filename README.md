@@ -1,6 +1,6 @@
 # Skeleton Kotlin App
 
-This repository contains an empty Gradle (Java) project as a springboard. 
+This repository contains an empty Gradle (Kotlin) project as a springboard. 
 
 ## Instructions
 
